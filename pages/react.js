@@ -38,11 +38,11 @@ const react = () => {
             
             <div className='flex justify-center'>
                 <a href='https://github.com/LucianoBartomioli/citas-react'
-                    target="_blank"
+                    
                 > 
                     <button className="bg-cyan-700 m-3 p-3 text-xl rounded-md text-white font-bold" >Código</button></a>
                     <a href='https://632c563e33c5aa1d232e2149--helpful-gelato-d12416.netlify.app/'
-                    target="_blank"
+                    
                 > 
                     <button className="m-3 bg-indigo-700 p-3 text-xl rounded-md text-white font-bold" >Página</button></a>
             </div>
