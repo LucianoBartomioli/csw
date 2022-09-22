@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="560" height="275" viewBox="0 0 560 275">
+  <defs>
+    <filter id="Rectangle_334" x="-39" y="-30" width="638" height="353" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-example">
+      <rect width="560" height="275"/>
+    </clipPath>
+  </defs>
+  <g id="example" clip-path="url(#clip-example)">
+    <g id="Group_1458" data-name="Group 1458" transform="translate(-703.612 -484.577)">
+      <g id="Group_1457" data-name="Group 1457" transform="translate(703.612 484.577)">
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_334)">
+          <rect id="Rectangle_334-2" data-name="Rectangle 334" width="560" height="275" rx="16" transform="translate(0)" fill="#fff"/>
+        </g>
+        <circle id="Ellipse_68" data-name="Ellipse 68" cx="6" cy="6" r="6" transform="translate(20 20)" fill="#2796fd"/>
+        <circle id="Ellipse_69" data-name="Ellipse 69" cx="6" cy="6" r="6" transform="translate(42 20)" fill="#2796fd"/>
+        <circle id="Ellipse_70" data-name="Ellipse 70" cx="6" cy="6" r="6" transform="translate(64 20)" fill="#2796fd"/>
+        <rect id="Rectangle_335" data-name="Rectangle 335" width="520" height="203" rx="8" transform="translate(20 52)" fill="#f6f6f6"/>
+        <path id="Rectangle_336" data-name="Rectangle 336" d="M8,0H24a0,0,0,0,1,0,0V203a0,0,0,0,1,0,0H8a8,8,0,0,1-8-8V8A8,8,0,0,1,8,0Z" transform="translate(20 52)" fill="#e5e5e5"/>
+        <text id="_1_2_3_4_5_6_7_8" data-name="1
+2
+3
+4
+5
+6
+7
+8" transform="translate(32 73.522)" fill="#8c8c8c" font-size="14" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="-3.591" y="0">1</tspan><tspan x="-3.591" y="24">2</tspan><tspan x="-3.591" y="48">3</tspan><tspan x="-3.591" y="72">4</tspan><tspan x="-3.591" y="96">5</tspan><tspan x="-3.591" y="120">6</tspan><tspan x="-3.591" y="144">7</tspan><tspan x="-3.591" y="168">8</tspan></text>
+        <text id="_name_:_Smith_nickname_:_smt_id_:_475_age_:_25_height_:_150_lastOverScore_:_6_2_1_4_1_4_" data-name="{  
+&quot;name&quot; : &quot;Smith&quot;,  
+&quot;nickname&quot; : &quot;smt&quot;,  
+&quot;id&quot; : 475,  
+&quot;age&quot; : 25,    
+&quot;height&quot; : 150,    
+&quot;lastOverScore&quot; : [6, 2, 1, 4, 1, 4]  
+}" transform="translate(60 73.522)" fill="#8c8c8c" font-size="14" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0" xml:space="preserve">{  </tspan><tspan x="0" y="24" xml:space="preserve">&quot;name&quot; : &quot;Smith&quot;,  </tspan><tspan x="0" y="48" xml:space="preserve">&quot;nickname&quot; : &quot;smt&quot;,  </tspan><tspan x="0" y="72" xml:space="preserve">&quot;id&quot; : 475,  </tspan><tspan x="0" y="96" xml:space="preserve">&quot;age&quot; : 25,    </tspan><tspan x="0" y="120" xml:space="preserve">&quot;height&quot; : 150,    </tspan><tspan x="0" y="144" xml:space="preserve">&quot;lastOverScore&quot; : [6, 2, 1, 4, 1, 4]  </tspan><tspan x="0" y="168">}</tspan></text>
+      </g>
+      <rect id="Rectangle_337" data-name="Rectangle 337" width="334" height="12" rx="6" transform="translate(909.612 504.577)" fill="#e5e5e5"/>
+    </g>
+  </g>
+</svg>
