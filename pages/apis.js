@@ -4,6 +4,7 @@ import DiapositivaInversa from '../components/DiapositivaInversa'
 
 const apis = () => {
   return (
+    <>
     <Layout title={"Apis"}>
         <Diapositiva
         pregunta={"¿Qué es una API?"}
@@ -23,7 +24,8 @@ const apis = () => {
 
         
     </Layout>
+    </>
   )
 }
 
-export default apis
+export default apis;

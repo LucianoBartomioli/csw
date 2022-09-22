@@ -6,6 +6,7 @@ import CardTemas from '../components/CardTemas'
 
 export default function Home() {
   return (
+    <>
     <Layout
       title="Home"  
         >
@@ -47,5 +48,8 @@ export default function Home() {
 
           </div>
     </Layout>
+    </>
   )
 }
+
+export default Home;

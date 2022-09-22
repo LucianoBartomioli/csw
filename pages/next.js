@@ -5,6 +5,7 @@ import DiapositivaInversa from '../components/DiapositivaInversa'
 
 const next = () => {
   return (
+    <>
     <Layout
         title={"Next"}
     >
@@ -34,8 +35,9 @@ const next = () => {
 
 
     </Layout>
+    </>
     
   )
 }
 
-export default next
+export default next;

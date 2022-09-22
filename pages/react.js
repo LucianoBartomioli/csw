@@ -6,6 +6,7 @@ import DiapositivaInversa from '../components/DiapositivaInversa'
 
 const react = () => {
   return (
+    <>
     <Layout
         title="React"
         >
@@ -51,7 +52,8 @@ const react = () => {
         
 
     </Layout>
+    </>
   )
 }
 
-export default react
+export default react;

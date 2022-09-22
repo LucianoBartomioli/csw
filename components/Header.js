@@ -5,6 +5,7 @@ import Link from 'next/link'
 
 const Header = () => {
   return (
+        <>
         <header className="bg-cyan-700 flex text-3xl font-bold justify-left">
            <div> 
 
@@ -26,6 +27,7 @@ const Header = () => {
   
             </nav>
         </header>
+        </>
   )
 }
 
