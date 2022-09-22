@@ -4,6 +4,7 @@ import Footer from './Footer'
 
 const Layout = ({children, title}) => {
   return (
+    <>
     <div>
         <Head>
             <title>CSW - {title}</title> 
@@ -17,7 +18,8 @@ const Layout = ({children, title}) => {
       <Footer
       ></Footer>
     </div>
+    </>
   )
 }
 
-export default Layout
+export default Layout;
