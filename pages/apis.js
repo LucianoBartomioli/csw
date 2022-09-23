@@ -1,4 +1,4 @@
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import Diapositiva from '../components/Diapositiva'
 import DiapositivaInversa from '../components/DiapositivaInversa'
 
