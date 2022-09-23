@@ -1,4 +1,4 @@
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 import Presentacion from '../components/Presentacion'
 import CardTemas from '../components/CardTemas'
 
